@@ -1,0 +1,47 @@
+<keymap version="1" name="ivoputzer" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.Push" />
+</keymap>
