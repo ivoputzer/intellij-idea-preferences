@@ -7,6 +7,17 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
@@ -24,6 +35,9 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt 2" />
