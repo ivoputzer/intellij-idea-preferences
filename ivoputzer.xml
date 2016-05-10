@@ -7,8 +7,14 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
@@ -25,6 +31,8 @@
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="EditorToggleCase" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta u" />
@@ -35,18 +43,21 @@
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
-    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
-    <keyboard-shortcut first-keystroke="shift meta k" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="GuiDesigner.Duplicate" />
+  <action id="IntroduceLambdaParameter" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
@@ -61,7 +72,13 @@
   <action id="Rerun" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SelectAllOccurrences" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShelvedChanges.Diff" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -85,6 +102,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.Push" />
