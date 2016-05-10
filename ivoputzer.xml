@@ -12,11 +12,17 @@
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
-  <action id="EditorScrollBottom">
+  <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorScrollTop">
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="EditorToggleCase" />
   <action id="FindInPath" />
@@ -36,6 +42,8 @@
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
@@ -51,6 +59,8 @@
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
   <action id="Rerun" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
