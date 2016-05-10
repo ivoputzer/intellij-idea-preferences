@@ -44,10 +44,12 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="GuiDesigner.Duplicate" />
@@ -103,9 +105,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="UnselectPreviousOccurrence">
-    <keyboard-shortcut first-keystroke="meta k" />
-  </action>
+  <action id="UnselectPreviousOccurrence" />
   <action id="UsageView.Rerun" />
   <action id="Vcs.Push" />
 </keymap>
