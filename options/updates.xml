@@ -1,0 +1,7 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="IDEA_Release" />
+    </knownUpdateChannels>
+  </component>
+</application>

@@ -1,0 +1,63 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="pce" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,data.remote.branches.count.2+,data.local.branches.count.2+,config.save.policy.STASH,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1462867334837" />
+      <project id="demoproj" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1458551939319" />
+      <project id="cnet-model-spike" values="config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1461672886861" />
+      <project id="dagger-example" values="config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.local.branches.count.0,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.remote.branches.count.0,config.warn.about.crlf.enabled,config.force.push.enabled,data.remotes.in.project.0,config.ssh.enabled" collectionTime="1460272980940" />
+      <project id="factory-di-example" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1460272977115" />
+    </group>
+    <group name="language-level">
+      <project id="pce" values="JDK_1_8" collectionTime="1462867334833" />
+      <project id="demoproj" values="JDK_1_8" collectionTime="1458551939318" />
+      <project id="cnet-model-spike" values="JDK_1_6" collectionTime="1461672886860" />
+      <project id="dagger-example" values="JDK_1_8" collectionTime="1460272980940" />
+      <project id="factory-di-example" values="JDK_1_5,JDK_1_8" collectionTime="1460272977115" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="pce" values="JUnit" collectionTime="1462867334695" />
+      <project id="demoproj" values="Application" collectionTime="1458551939280" />
+      <project id="cnet-model-spike" values="JUnit" collectionTime="1461672886812" />
+      <project id="dagger-example" values="Application" collectionTime="1460272980909" />
+      <project id="factory-di-example" values="Application" collectionTime="1460272977054" />
+    </group>
+    <group name="vcs">
+      <project id="pce" values="Git" collectionTime="1462867334694" />
+      <project id="dagger-example" values="Git" collectionTime="1460272980909" />
+    </group>
+    <group name="file-type">
+      <project id="pce" values="Properties,PLAIN_TEXT,Eclipse,XML,IDEA_MODULE,UNKNOWN,JSON,JAVA" collectionTime="1462867334801" />
+      <project id="demoproj" values="UNKNOWN" collectionTime="1458551939312" />
+      <project id="cnet-model-spike" values="UNKNOWN" collectionTime="1461672886853" />
+      <project id="dagger-example" values="JAVA,UNKNOWN,XML,PLAIN_TEXT,IDEA_MODULE,Eclipse" collectionTime="1460272980940" />
+      <project id="factory-di-example" values="UNKNOWN,PLAIN_TEXT,JAVA,IDEA_MODULE,XML" collectionTime="1460272977111" />
+    </group>
+    <group name="module type">
+      <project id="pce" values="JAVA_MODULE" collectionTime="1462867334694" />
+      <project id="dagger-example" values="JAVA_MODULE" collectionTime="1460272980909" />
+      <project id="factory-di-example" values="JAVA_MODULE" collectionTime="1460272977054" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.DEFAULT" count="2" />
+      <entry feature="execute.Application.Coverage" count="1" />
+      <entry feature="execute.Application.Debug" count="1" />
+      <entry feature="execute.Application.Run" count="54" />
+      <entry feature="execute.JUnit.Coverage" count="4" />
+      <entry feature="execute.JUnit.Debug" count="37" />
+      <entry feature="execute.JUnit.Run" count="571" />
+      <entry feature="ide.settings.Annotation_Processors" count="1" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="2" />
+      <entry feature="ide.settings.Keymap" count="42" />
+      <entry feature="ideaapp.started" count="25" />
+      <entry feature="tips.of.the.day.next" count="37" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="4" />
+    </counts>
+  </component>
+</application>

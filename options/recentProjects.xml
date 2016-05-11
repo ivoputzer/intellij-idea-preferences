@@ -1,0 +1,79 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/xpeppers/cnet-pce" />
+        <option value="$USER_HOME$/xpeppers/cnet-model-spike" />
+        <option value="$USER_HOME$/xpeppers/dagger-example/factory-di-example" />
+        <option value="$USER_HOME$/xpeppers/dagger-example/dagger-example" />
+        <option value="$USER_HOME$/xpeppers/demoproj" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/xpeppers/cnet-pce" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/xpeppers/cnet-pce" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/xpeppers/cnet-model-spike">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2332" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461871555354" />
+              <option name="buildTimestamp" value="1458687600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/xpeppers/cnet-pce">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-145.597" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462867383405" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/xpeppers/dagger-example/dagger-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460125074756" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/xpeppers/dagger-example/factory-di-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460125727775" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/xpeppers/demoproj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458551773726" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/xpeppers" />
+  </component>
+</application>
