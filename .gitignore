@@ -1,3 +1,9 @@
 tasks/
 port
 port.lock
+options/feature.usage.statistics.xml
+options/find.recents.xml
+options/recentProjects.xml
+options/statistics.application.usages.xml
+options/stubIndex.xml
+options/window.manager.xml
