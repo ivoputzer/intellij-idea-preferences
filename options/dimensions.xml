@@ -81,7 +81,7 @@
     <location key="SettingsEditor.1280.-873.1920.1080" x="1721" y="-671" />
     <location key="#com.intellij.ide.util.MemberChooser.-340.-1080.1920.1080" x="433" y="-832" />
     <location key="SettingsEditor.917.-1080.1920.1080" x="1357" y="-878" />
-    <location key="extract.method.dialog.917.-1080.1920.1080" x="1653" y="-598" />
+    <location key="extract.method.dialog.917.-1080.1920.1080" x="1230" y="-569" />
     <location key="refactoring.ChangeSignatureDialog.917.-1080.1920.1080" x="1598" y="-929" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.917.-1080.1920.1080" x="1615" y="-779" />
     <location key="com.intellij.ide.util.TipDialog.917.-1080.1920.1080" x="1275" y="-564" />
@@ -112,6 +112,55 @@
     <location key="ReplaceDuplicatesPrompt.917.-1080.1920.1080" x="1682" y="-616" />
     <location key="bookmarks.917.-1080.1920.1080" x="1512" y="-710" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.917.-1080.1920.1080" x="1639" y="-647" />
+    <location key="replaceTextDialog.917.-1080.1920.1080" x="1639" y="-829" />
+    <location key="WELCOME_SCREEN.0.0.1680.1050" x="839" y="230" />
+    <location key="SettingsEditor.-1287.-1080.1920.1080" x="-846" y="-878" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.-1287.-1080.1920.1080" x="-905" y="-1080" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.917.-1080.1920.1080" x="1684" y="-686" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.917.-1080.1920.1080" x="1589" y="-798" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.917.-1080.1920.1080" x="1615" y="-787" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.917.-1080.1920.1080" x="1715" y="-910" />
+    <location key="WELCOME_SCREEN.917.-1080.1920.1080" x="1674" y="230" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.-1287.-1080.1920.1080" x="-489" y="-910" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.-1287.-1080.1920.1080" x="-615" y="-798" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.-1287.-1080.1920.1080" x="-589" y="-779" />
+    <location key="extract.method.dialog.-1287.-1080.1920.1080" x="-589" y="-749" />
+    <location key="ReplaceDuplicatesPrompt.-1287.-1080.1920.1080" x="-522" y="-616" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.-1287.-1080.1920.1080" x="-565" y="-647" />
+    <location key="Github.CreateGistDialog.-1287.-1080.1920.1080" x="-495" y="-642" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.917.-1080.1920.1080" x="1649" y="-676" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.-320.-1080.1920.1080" x="378" y="-779" />
+    <location key="extract.method.dialog.-320.-1080.1920.1080" x="378" y="-764" />
+    <location key="ReplaceDuplicatesPrompt.-320.-1080.1920.1080" x="445" y="-616" />
+    <location key="StructurePopup.-320.-1080.1920.1080" x="434" y="-751" />
+    <location key="SettingsEditor.-320.-1080.1920.1080" x="121" y="-878" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.-320.-1080.1920.1080" x="402" y="-647" />
+    <location key="new project wizard.-320.-1080.1920.1080" x="150" y="-934" />
+    <location key="Maven.ArtifactSearchDialog.-320.-1080.1920.1080" x="178" y="-879" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.-320.-1080.1920.1080" x="419" y="-781" />
+    <location key="FileChooserDialogImpl.-320.-1080.1920.1080" x="428" y="-793" />
+    <location key="chooseDestDirectoryDialog.-320.-1080.1920.1080" x="435" y="-757" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.-320.-1080.1920.1080" x="377" y="-757" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.-320.-1080.1920.1080" x="104" y="-879" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.1159.-1080.1920.1080" x="1857" y="-787" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.-1080.1920.1080" x="699" y="-781" />
+    <location key="SettingsEditor.0.0.1280.800" x="121" y="62" />
+    <location key="chooseDestDirectoryDialog.917.-1080.1920.1080" x="1672" y="-757" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.917.-1080.1920.1080" x="1649" y="-651" />
+    <location key="refactoring.ChangeSignatureDialog.775.-1080.1920.1080" x="1456" y="-929" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.775.-1080.1920.1080" x="1473" y="-779" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.775.-1080.1920.1080" x="1244" y="-783" />
+    <location key="Maven.ArtifactSearchDialog.775.-1080.1920.1080" x="1273" y="-879" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.775.-1080.1920.1080" x="1573" y="-918" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.775.-1080.1920.1080" x="1369" y="-808" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.775.-1080.1920.1080" x="1447" y="-776" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.775.-1080.1920.1080" x="1097" y="-1080" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.775.-1080.1920.1080" x="1510" y="-770" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.775.-1080.1920.1080" x="1473" y="-787" />
+    <location key="#com.intellij.ide.util.MemberChooser.775.-1080.1920.1080" x="1548" y="-826" />
+    <location key="extract.method.dialog.775.-1080.1920.1080" x="1473" y="-774" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.775.-1080.1920.1080" x="1542" y="-686" />
+    <location key="SettingsEditor.775.-1080.1920.1080" x="1216" y="-878" />
     <size key="GridCell.Tab.0.left.-308.-1080.1920.1080" width="1920" height="303" />
     <size key="GridCell.Tab.0.center.-308.-1080.1920.1080" width="1920" height="303" />
     <size key="GridCell.Tab.0.right.-308.-1080.1920.1080" width="1920" height="303" />
@@ -165,27 +214,27 @@
     <size key="GridCell.Tab.0.center.-340.-1080.1920.1080" width="1920" height="247" />
     <size key="GridCell.Tab.0.right.-340.-1080.1920.1080" width="1920" height="247" />
     <size key="GridCell.Tab.0.bottom.-340.-1080.1920.1080" width="1920" height="247" />
-    <size key="GridCell.Tab.0.left.917.-1080.1920.1080" width="1920" height="298" />
-    <size key="GridCell.Tab.0.center.917.-1080.1920.1080" width="1920" height="298" />
-    <size key="GridCell.Tab.0.right.917.-1080.1920.1080" width="1920" height="298" />
-    <size key="GridCell.Tab.0.bottom.917.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.0.left.917.-1080.1920.1080" width="1920" height="191" />
+    <size key="GridCell.Tab.0.center.917.-1080.1920.1080" width="1920" height="191" />
+    <size key="GridCell.Tab.0.right.917.-1080.1920.1080" width="1920" height="191" />
+    <size key="GridCell.Tab.0.bottom.917.-1080.1920.1080" width="1920" height="191" />
     <size key="javadoc.popup.917.-1080.1920.1080" width="481" height="170" />
-    <size key="GridCell.Tab.0.left.0.-1080.1920.1080" width="1920" height="378" />
-    <size key="GridCell.Tab.0.center.0.-1080.1920.1080" width="1920" height="378" />
-    <size key="GridCell.Tab.0.right.0.-1080.1920.1080" width="1920" height="378" />
-    <size key="GridCell.Tab.0.bottom.0.-1080.1920.1080" width="1920" height="378" />
-    <size key="GridCell.Tab.1.left.0.-1080.1920.1080" width="1920" height="378" />
-    <size key="GridCell.Tab.1.center.0.-1080.1920.1080" width="1920" height="378" />
-    <size key="GridCell.Tab.1.right.0.-1080.1920.1080" width="1920" height="378" />
-    <size key="GridCell.Tab.1.bottom.0.-1080.1920.1080" width="1920" height="378" />
-    <size key="GridCell.Tab.0.left.0.0.1680.1050" width="1680" height="256" />
-    <size key="GridCell.Tab.0.center.0.0.1680.1050" width="1680" height="256" />
-    <size key="GridCell.Tab.0.right.0.0.1680.1050" width="1680" height="256" />
-    <size key="GridCell.Tab.0.bottom.0.0.1680.1050" width="1680" height="256" />
-    <size key="GridCell.Tab.1.left.0.0.1680.1050" width="1680" height="515" />
-    <size key="GridCell.Tab.1.center.0.0.1680.1050" width="1680" height="515" />
-    <size key="GridCell.Tab.1.right.0.0.1680.1050" width="1680" height="515" />
-    <size key="GridCell.Tab.1.bottom.0.0.1680.1050" width="1680" height="515" />
+    <size key="GridCell.Tab.0.left.0.-1080.1920.1080" width="1920" height="250" />
+    <size key="GridCell.Tab.0.center.0.-1080.1920.1080" width="1920" height="250" />
+    <size key="GridCell.Tab.0.right.0.-1080.1920.1080" width="1920" height="250" />
+    <size key="GridCell.Tab.0.bottom.0.-1080.1920.1080" width="1920" height="250" />
+    <size key="GridCell.Tab.1.left.0.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.1.center.0.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.1.right.0.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.1.bottom.0.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.0.left.0.0.1680.1050" width="1920" height="298" />
+    <size key="GridCell.Tab.0.center.0.0.1680.1050" width="1920" height="298" />
+    <size key="GridCell.Tab.0.right.0.0.1680.1050" width="1920" height="298" />
+    <size key="GridCell.Tab.0.bottom.0.0.1680.1050" width="1920" height="298" />
+    <size key="GridCell.Tab.1.left.0.0.1680.1050" width="1920" height="298" />
+    <size key="GridCell.Tab.1.center.0.0.1680.1050" width="1920" height="298" />
+    <size key="GridCell.Tab.1.right.0.0.1680.1050" width="1920" height="298" />
+    <size key="GridCell.Tab.1.bottom.0.0.1680.1050" width="1920" height="298" />
     <size key="DebuggerActiveHint.0.0.1680.1050" width="442" height="401" />
     <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.917.-1080.1920.1080" width="695" height="1080" />
     <size key="GridCell.Tab.1.left.917.-1080.1920.1080" width="1920" height="298" />
@@ -193,5 +242,34 @@
     <size key="GridCell.Tab.1.right.917.-1080.1920.1080" width="1920" height="298" />
     <size key="GridCell.Tab.1.bottom.917.-1080.1920.1080" width="1920" height="298" />
     <size key="bookmarks.917.-1080.1920.1080" width="730" height="340" />
+    <size key="GridCell.Tab.0.left.-1287.-1080.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.0.center.-1287.-1080.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.0.right.-1287.-1080.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.0.bottom.-1287.-1080.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.1.left.-1287.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.1.center.-1287.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.1.right.-1287.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.1.bottom.-1287.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.0.left.-320.-1080.1920.1080" width="1920" height="308" />
+    <size key="GridCell.Tab.0.center.-320.-1080.1920.1080" width="1920" height="308" />
+    <size key="GridCell.Tab.0.right.-320.-1080.1920.1080" width="1920" height="308" />
+    <size key="GridCell.Tab.0.bottom.-320.-1080.1920.1080" width="1920" height="308" />
+    <size key="GridCell.Tab.1.left.-320.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.1.center.-320.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.1.right.-320.-1080.1920.1080" width="1920" height="298" />
+    <size key="GridCell.Tab.1.bottom.-320.-1080.1920.1080" width="1920" height="298" />
+    <size key="StructurePopup.-320.-1080.1920.1080" width="412" height="421" />
+    <size key="GridCell.Tab.0.left.1159.-1080.1920.1080" width="1920" height="308" />
+    <size key="GridCell.Tab.0.center.1159.-1080.1920.1080" width="1920" height="308" />
+    <size key="GridCell.Tab.0.right.1159.-1080.1920.1080" width="1920" height="308" />
+    <size key="GridCell.Tab.0.bottom.1159.-1080.1920.1080" width="1920" height="308" />
+    <size key="GridCell.Tab.0.left.775.-1080.1920.1080" width="1920" height="278" />
+    <size key="GridCell.Tab.0.center.775.-1080.1920.1080" width="1920" height="278" />
+    <size key="GridCell.Tab.0.right.775.-1080.1920.1080" width="1920" height="278" />
+    <size key="GridCell.Tab.0.bottom.775.-1080.1920.1080" width="1920" height="278" />
+    <size key="GridCell.Tab.1.left.775.-1080.1920.1080" width="1920" height="221" />
+    <size key="GridCell.Tab.1.center.775.-1080.1920.1080" width="1920" height="221" />
+    <size key="GridCell.Tab.1.right.775.-1080.1920.1080" width="1920" height="221" />
+    <size key="GridCell.Tab.1.bottom.775.-1080.1920.1080" width="1920" height="221" />
   </component>
 </application>

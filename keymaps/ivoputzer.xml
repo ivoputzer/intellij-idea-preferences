@@ -18,6 +18,9 @@
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -30,7 +33,9 @@
   <action id="EditorTextStartWithSelection">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
-  <action id="EditorToggleCase" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath" />
@@ -51,15 +56,39 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="GotoLine" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
+  <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="IntroduceLambdaParameter" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta alt left" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
@@ -84,6 +113,8 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="ShowProjectStructureSettings" />
+  <action id="ShowRecentTests" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
@@ -105,6 +136,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TestData.Navigate" />
   <action id="UnselectPreviousOccurrence" />
   <action id="UsageView.Rerun" />
   <action id="Vcs.Push" />
