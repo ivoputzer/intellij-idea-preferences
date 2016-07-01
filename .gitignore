@@ -2,5 +2,9 @@ tasks/
 options/find.recents.xml
 options/recentProjects.xml
 options/statistics.application.usages.xml
+options/feature.usage.statistics.xml
+options/window.manager.xml
+options/runner.layout.xml
+options/dimensions.xml
 port
 port.lock
