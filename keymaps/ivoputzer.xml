@@ -69,6 +69,11 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="shift button2" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="IntroduceLambdaParameter" />
   <action id="MoveLineDown">
@@ -137,6 +142,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="TestData.Navigate" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="UsageView.Rerun" />
   <action id="Vcs.Push" />
