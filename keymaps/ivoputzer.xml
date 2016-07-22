@@ -1,4 +1,5 @@
 <keymap version="1" name="ivoputzer" parent="Mac OS X 10.5+">
+  <action id="ActivateMessagesToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
@@ -13,11 +14,20 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -43,7 +53,6 @@
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoClass">
@@ -75,6 +84,9 @@
     <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
   <action id="IntroduceLambdaParameter" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
@@ -144,6 +156,9 @@
   <action id="TestData.Navigate" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="meta h" />
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="UsageView.Rerun" />
