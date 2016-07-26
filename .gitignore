@@ -8,3 +8,7 @@ options/runner.layout.xml
 options/dimensions.xml
 port
 port.lock
+installed.txt
+
+options/proxy.settings.pwd
+
