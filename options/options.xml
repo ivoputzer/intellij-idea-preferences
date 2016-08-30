@@ -4,7 +4,7 @@
     <property name="DefaultHtmlDoctype.Refreshed" value="2" />
     <property name="installed.kotlin.plugin.version" value="1.0.2-release-IJ143-96" />
     <property name="installation.uid" value="ca7aa48a-db07-41d7-834e-b370d5e5f681" />
-    <property name="android-component-compatibility-check" value="1469089211927" />
+    <property name="android-component-compatibility-check" value="1472548000475" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Maven" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/xpeppers/cnet-pce&#10;/Users/ivoputzer/xpeppers/roman-numerals-kotlin/src/test/kotlin/com/xpeppers&#10;/Users/ivoputzer/xpeppers/dagger-example/dagger-example&#10;/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home" />
@@ -39,6 +39,7 @@
     <property name="GradleModuleWizard.inheritVersion" value="true" />
     <property name="kotlin.lastUpdateCheck" value="1464353101337" />
     <property name="create.member.preselect.anonymous" value="true" />
-    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="search.everywhere.max.popup.width" value="729" />
   </component>
 </application>
