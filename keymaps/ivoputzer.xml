@@ -3,6 +3,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="CheckinProject" />
   <action id="CommentByLineComment">
@@ -22,6 +23,14 @@
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
@@ -54,6 +63,7 @@
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />

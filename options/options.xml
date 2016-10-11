@@ -2,20 +2,20 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="2" />
-    <property name="installed.kotlin.plugin.version" value="1.0.2-release-IJ143-96" />
+    <property name="installed.kotlin.plugin.version" value="1.0.3-release-IJ2016.1-120" />
     <property name="installation.uid" value="ca7aa48a-db07-41d7-834e-b370d5e5f681" />
-    <property name="android-component-compatibility-check" value="1472548000475" />
+    <property name="android-component-compatibility-check" value="1475836362686" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Maven" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/xpeppers/cnet-pce&#10;/Users/ivoputzer/xpeppers/roman-numerals-kotlin/src/test/kotlin/com/xpeppers&#10;/Users/ivoputzer/xpeppers/dagger-example/dagger-example&#10;/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home" />
+    <property name="file.chooser.recent.files" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home&#10;/Users/ivoputzer/xpeppers/cnet-rpt&#10;/Users/ivoputzer/xpeppers/cnet-ncms-schema&#10;/Users/ivoputzer/xpeppers&#10;/Users/ivoputzer/xpeppers/cnet-rpt-boris&#10;/Users/ivoputzer/xpeppers/akka-rest-api&#10;/Users/ivoputzer/xpeppers/cnet-rpt/out/plain/install/lib&#10;/Users/ivoputzer/xpeppers/cnet-rpt/src/build/builder.xml&#10;/Users/ivoputzer/xpeppers/ncms-schema&#10;/Users/ivoputzer/xpeppers/cnet-pce&#10;/Users/ivoputzer/xpeppers/roman-numerals-kotlin/src/test/kotlin/com/xpeppers&#10;/Users/ivoputzer/xpeppers/dagger-example/dagger-example&#10;/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="IJ_BASE_PACKAGE" value="com.xpeppers.demoproj" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="lastTip" value="66" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
-    <property name="last.imported.location" value="$USER_HOME$/xpeppers/cnet-pce" />
-    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="last.imported.location" value="$USER_HOME$/xpeppers/cnet-rpt" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="sm_test_statistics_table_columnsWidth0" value="75" />
     <property name="sm_test_statistics_table_columnsOrder0" value="0" />
@@ -23,7 +23,7 @@
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
-    <property name="KEYMAP" value="hierarchy&#10;toggl&#10;toggle&#10;case&#10;splitter" />
+    <property name="KEYMAP" value="navigate&#10;back&#10;hierarchy&#10;toggl&#10;toggle" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -31,15 +31,17 @@
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
-    <property name="PLUGIN_FILTER" value="code navi&#10;Code Navigator&#10;UML" />
+    <property name="PLUGIN_FILTER" value="ant&#10;ant build&#10;code navi&#10;Code Navigator&#10;UML" />
     <property name="ShowDocumentationInToolWindow" value="true" />
-    <property name="JUnit.Splitter.Proportion" value="0.2883598" />
+    <property name="JUnit.Splitter.Proportion" value="0.23174603" />
     <property name="java.anonymous.provider.file.structure.state" value="true" />
     <property name="GradleModuleWizard.inheritGroupId" value="true" />
     <property name="GradleModuleWizard.inheritVersion" value="true" />
     <property name="kotlin.lastUpdateCheck" value="1464353101337" />
     <property name="create.member.preselect.anonymous" value="true" />
     <property name="fileTypeChangedCounter" value="2" />
-    <property name="search.everywhere.max.popup.width" value="729" />
+    <property name="search.everywhere.max.popup.width" value="752" />
+    <property name="scala.last.updated" value="1475156186560" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
   </component>
 </application>
